@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sklad.Context.Contracts.Models
 {
-    public class Postavshik : BaseAuditEntity
+    public class Postavshik 
     {
 
         public string Postavhik { get; set; }
