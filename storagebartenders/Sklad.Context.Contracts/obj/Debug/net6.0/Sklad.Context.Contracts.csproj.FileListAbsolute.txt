@@ -1,6 +1,4 @@
-C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\bin\Debug\net6.0\Sklad.Context.Contracts.exe
 C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\bin\Debug\net6.0\Sklad.Context.Contracts.deps.json
-C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\bin\Debug\net6.0\Sklad.Context.Contracts.runtimeconfig.json
 C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\bin\Debug\net6.0\Sklad.Context.Contracts.dll
 C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\bin\Debug\net6.0\Sklad.Context.Contracts.pdb
 C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\obj\Debug\net6.0\Sklad.Context.Contracts.csproj.AssemblyReference.cache
@@ -11,5 +9,4 @@ C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\
 C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\obj\Debug\net6.0\Sklad.Context.Contracts.dll
 C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\obj\Debug\net6.0\refint\Sklad.Context.Contracts.dll
 C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\obj\Debug\net6.0\Sklad.Context.Contracts.pdb
-C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\obj\Debug\net6.0\Sklad.Context.Contracts.genruntimeconfig.cache
 C:\Users\159-20\source\repos\Troechka\storagebartenders\Sklad.Context.Contracts\obj\Debug\net6.0\ref\Sklad.Context.Contracts.dll

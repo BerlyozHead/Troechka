@@ -8,9 +8,10 @@ namespace Sklad.Context.Contracts.Models
 {
     public class Vedomost
     {
-        public string Kolic { get; set; }
+        public int Kolic { get; set; }
 
-        public string Summa { get; set; }
-
+        public int Summa { get; set; }
+        public object Postavhik { get; set; }
+        public Guid Id { get; set; }
     }
 }

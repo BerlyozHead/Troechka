@@ -30,3 +30,10 @@ C:\Users\159-20\source\repos\Troechka\storagebartenders\storagebartenders\obj\De
 C:\Users\159-20\source\repos\Troechka\storagebartenders\storagebartenders\obj\Debug\net6.0\storagebartenders.pdb
 C:\Users\159-20\source\repos\Troechka\storagebartenders\storagebartenders\obj\Debug\net6.0\storagebartenders.genruntimeconfig.cache
 C:\Users\159-20\source\repos\Troechka\storagebartenders\storagebartenders\obj\Debug\net6.0\ref\storagebartenders.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\storagebartenders\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\storagebartenders\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\storagebartenders\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\storagebartenders\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\storagebartenders\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\storagebartenders\bin\Debug\net6.0\Sklad.Context.Contracts.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\storagebartenders\bin\Debug\net6.0\Sklad.Context.Contracts.pdb

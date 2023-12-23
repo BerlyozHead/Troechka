@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context\\Sklad.Context.csproj": {}
+    "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context\\Sklad.Context.csproj": {}
   },
   "projects": {
-    "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj": {
+    "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj",
         "projectName": "Sklad.Context.Contracts",
-        "projectPath": "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj",
+        "projectPath": "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj",
         "packagesPath": "C:\\Users\\159-20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context\\Sklad.Context.csproj": {
+    "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context\\Sklad.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context\\Sklad.Context.csproj",
+        "projectUniqueName": "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context\\Sklad.Context.csproj",
         "projectName": "Sklad.Context",
-        "projectPath": "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context\\Sklad.Context.csproj",
+        "projectPath": "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context\\Sklad.Context.csproj",
         "packagesPath": "C:\\Users\\159-20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context\\obj\\",
+        "outputPath": "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj": {
-                "projectPath": "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj"
+              "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj": {
+                "projectPath": "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj"
               }
             }
           }
@@ -130,6 +130,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

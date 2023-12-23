@@ -12,7 +12,7 @@ namespace Sklad.Context.Contracts.Models
         public string Postavhik { get; set; }
 
         public string Adress { get; set; }
-        public string Telefon { get; set; }
-
+        public int Telefon { get; set; }
+        public Guid Id { get; set; }
     }
 }

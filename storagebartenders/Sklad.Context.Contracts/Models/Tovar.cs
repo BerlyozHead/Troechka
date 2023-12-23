@@ -12,10 +12,7 @@ namespace Sklad.Context.Contracts.Models
 
         public string Tovari { get; set; }
 
-        public string cena { get; set; }
-
-
-
-
+        public int cena { get; set; }
+        public Guid Id { get; set; }
     }
 }

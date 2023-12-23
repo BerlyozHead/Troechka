@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DzJ1Qm7iib3k5uD1RrM3TV/oG51ueXniTgloz/zgrHkvavoLsB8pPcLASv0pCrMIQ62JPwUyVqWbRjp4Zcswfg==",
+  "dgSpecHash": "RA4Ayr5DxTS9mB7nUfSjaMzPeA8LkFNJzKvg91hZqFnZWskLxvkNL+z7OB9Rdrqn8Go3ULlzhVl6E4pWz1Jmtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\159-20\\source\\repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\159-20\\Source\\Repos\\Troechka\\storagebartenders\\Sklad.Context.Contracts\\Sklad.Context.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\159-20\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.25\\microsoft.entityframeworkcore.6.0.25.nupkg.sha512",
     "C:\\Users\\159-20\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.25\\microsoft.entityframeworkcore.abstractions.6.0.25.nupkg.sha512",

@@ -1,0 +1,17 @@
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.csproj.AssemblyReference.cache
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.AssemblyInfoInputs.cache
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.AssemblyInfo.cs
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.csproj.CoreCompileInputs.cache
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\bin\Debug\net6.0\Sklad.Context.deps.json
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\bin\Debug\net6.0\Sklad.Context.runtimeconfig.json
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\bin\Debug\net6.0\Sklad.Context.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\bin\Debug\net6.0\Sklad.Context.pdb
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\bin\Debug\net6.0\Sklad.Context.Contracts.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\bin\Debug\net6.0\Sklad.Context.Contracts.pdb
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.csproj.CopyComplete
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\refint\Sklad.Context.dll
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.pdb
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\Sklad.Context.genruntimeconfig.cache
+C:\Users\159-20\Source\Repos\Troechka\storagebartenders\Sklad.Context\obj\Debug\net6.0\ref\Sklad.Context.dll

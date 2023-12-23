@@ -16,14 +16,14 @@ namespace Sklad.Context
         /// <summary>
         /// Ìàøèíû
         /// </summary>
-        DbSet<Postavshik> Postavshiks { get; }
+        ICollection<Postavshik> Postavshiks { get; }
 
         /// <summary>
         /// çàêàç÷èê
         /// </summary>
-        DbSet<Tovar> Tovars { get; }
+        ICollection<Tovar> Tovars { get; }
 
-        DbSet<Vedomost> Vedomosts { get; }
+        ICollection<Vedomost> Vedomosts { get; }
 
         /// <summary>
         /// 
@@ -31,4 +31,9 @@ namespace Sklad.Context
         /// <returns></returns>
         int SaveChanges();
     }
+
 }
+/// 1) dotnet tool install --global dotnet-ef
+/// 2) dotnet tool update --global dotnet-ef
+/// 3) dotnet ef migrations add [name] --project TimeTable207.Context\TimeTable207.Context.csproj
+/// 4) dotnet ef database update --project TimeTable207.Context\TimeTable207.Context.csproj
